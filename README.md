@@ -1,4 +1,4 @@
- Ứng dụng từ bài<a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-1/">Đối tượng Intent trong Android Phần 1</a>
+ Ứng dụng từ bài <a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-1/">Đối tượng Intent trong Android Phần 1</a>
 
 <a href="https://github.com/ntson2110/hello">Làm quen môi trường Android</a>
 
